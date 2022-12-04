@@ -1,2 +1,2 @@
 # pyCraft
-Yet another repo.
+Download pyCraft in releases.
